@@ -2,5 +2,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello Github...");
         System.out.println("Learning branches");
+        System.out.println("This is a new branches...");
     }
 }
